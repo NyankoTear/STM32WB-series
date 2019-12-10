@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Code generation report file
+cdc_device.txt
+
+# vscode configuraton
+.vscode/
